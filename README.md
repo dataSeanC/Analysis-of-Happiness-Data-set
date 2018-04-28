@@ -1,1 +1,5 @@
-# My first repo. Uploaded a previous project for a Graduate course in Predictive Analytics. The upload is an abbreviated version of the overall analysis.
+Abbreviated Analysis of the Worldwide Happiness Data-set. Methods and models were removed. See full analysis for all models produced.
+
+Software and language used: RStudio and R
+
+Kaggle source: https://www.kaggle.com/unsdsn/world-happiness
